@@ -43,7 +43,3 @@ class AddRecipeView extends View {
 }
 
 export default new AddRecipeView();
-
-// git add .
-// git commit -m 'Uploading a New Recipe - Part 1: addRecipeView, open/close modal, upload btn'
-// git push
